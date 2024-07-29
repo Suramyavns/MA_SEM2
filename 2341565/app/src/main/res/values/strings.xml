@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2341565</string>
+    <string name="nameInput">Your name here</string>
+    <string name="nameDisplay">Welcome</string>
+    <string name="numBar">Enter 2 numbers</string>
+    <string name="sum">+</string>
+    <string name="sumRes">SUM</string>
+    <string name="num1">A</string>
+    <string name="num2">B</string>
+    <string name="redirect">Show student page</string>
+    <string name="student">John Doe</string>
+</resources>
