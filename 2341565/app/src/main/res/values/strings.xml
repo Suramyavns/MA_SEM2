@@ -1,12 +1,25 @@
 <resources>
-    <string name="app_name">2341565</string>
+    <string name="app_name">Calculator</string>
+    <string name="nothing"> </string>
     <string name="nameInput">Your name here</string>
     <string name="nameDisplay">Welcome</string>
-    <string name="numBar">Enter 2 numbers</string>
+    <string name="numBar">Calculator</string>
     <string name="sum">+</string>
+    <string name="equality">=</string>
+    <string name="subtract">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
     <string name="sumRes">SUM</string>
     <string name="num1">A</string>
     <string name="num2">B</string>
+    <string name="res">C</string>
     <string name="redirect">Show student page</string>
-    <string name="student">John Doe</string>
+    <string name="back">Previous Page</string>
+    <string name="student">Suramya Didwania</string>
+    <string name="studentDetails">2341565 3BCA A</string>
+    <string name="marksHead">Academic History</string>
+    <string name="grade10">Grade 10</string>
+    <string name="grade12">Grade 12</string>
+    <string name="score10">84%</string>
+    <string name="score12">96%</string>
 </resources>
